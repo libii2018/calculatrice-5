@@ -1,0 +1,124 @@
+body{
+    background: #3498db;
+    width:100%;
+}
+
+#root{
+    width: 300px;;
+    height:500px;
+    margin: auto;
+    margin-top: 100px;
+    background:#34495e;
+
+}
+
+#calculatrice{
+    width: 100%;
+    height: 100%;
+}
+
+#calculatrice > div{
+    width :100%;
+}
+
+#resultat{
+    height: 200px;
+}
+
+#mathtable{
+    height: 300px;
+}
+
+.rows{
+    width:100%;
+    height:60px;
+}
+
+.rows > div{
+    float:left;
+    height: 100%;
+    width:75px;
+    text-align: center;
+    color:white;
+}
+
+#pink{
+    background:#ec407a;
+}
+/*
+.button{
+    cursor: default;
+    text-align: center;
+    padding: 7px 13px;
+    font-size: 30px;
+    text-shadow: 0 -1px 1px #000;
+    color:#fff;
+    font-weight:bold;
+    display: inline-block;
+    border-top: 1px solid #777;
+    width:34px;
+    background: linear-gradient(#5f5f5f 0%, #404040 100%);
+    box-shadow:  0 2px 6px rgba(0, 0, 0, .8);
+    margin-bottom:10px;
+    margin
+}
+
+.button:hover{
+    background: linear-gradient(#79d144 0%, #50a61f 100);
+    border-top: 1px solid #9add73;
+    text-shadow:0 -1px 1px;
+}
+
+.button:active{
+    box-shadow: none;
+}
+
+*/
+
+
+
+
+#resultat > div > p {
+    width:70%;
+    margin-left:20%;
+    text-align: right;
+}
+
+#doingMath{
+    height:60px;
+    color:#9e9e9e ;
+}
+
+#doingMath > p{
+    height:10px;
+    margin-top:100px;
+    font-weight:300; 
+    padding-top:80px;
+}
+
+#answers{
+    background-color: black;
+    height: 70px;
+    color:white;
+    font-size: 45px;
+    font-weight:bold;
+}
+
+#answers > p{
+    height:50px;
+    margin:0;
+}
+
+.numoperan{
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.numoperan:hover{
+    background: linear-gradient(#3498db 0%, #34495e 100%);
+}
+
+.numoperan:active{
+    font-size: 15px;
+}
