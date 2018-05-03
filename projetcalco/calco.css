@@ -1,0 +1,198 @@
+#block,body,html{//*mettons tout notre devoir a 100% pour le faire il faudra mettre les parents egalement c'est a dire bady et html d'ou l'ecriture precedante*/
+	width: 100%;
+	height: 100%;
+	border: none;
+	background-color:gray;
+}
+.block1{
+	width: 25%;
+	height: 94%;
+	border-radius:10px;
+	background-color: #e6005c;
+	margin-top:30px;
+	margin-left:500px;
+	box-shadow: 0 7px 10px rgba(0,0,0, 0.8);
+	font-family: 'opensans', ubuntu,sans-serif;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-ms-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+
+}
+#block12{
+	width: 100%;
+	height:8%;
+	margin: 10px;
+	/*border: solid white 1px;*/
+}
+h1{
+	text-align: center;
+	color: #663300;
+	margin-top: 10px;
+	font-size: 20px;
+}
+.name{
+	color: black;
+	margin-top:-8px;
+	font-size: 12px;
+	text-decoration-color: white;
+}
+/*#block13{
+	width: 95%;
+	height: 15%;
+	border: none;
+	border-radius: 10px;
+	box-shadow: 5px black;
+	background-color:black;
+	margin-left: 8px;
+}*/
+input{
+
+	width: 293px;
+	height: 55px;
+	color: white;
+	margin: 10px;
+	background-color:black;
+	border-radius:6px;
+	border: none;
+	text-align: right;
+	padding: 10px;
+	font-size: 30px;
+}
+#block14{
+	width: 95%;
+	height: 35%;
+	border: solid #e6005c 1px; 
+	margin-left: 7px;
+	margin-top: 10px;
+	cursor: default;
+}
+.bouton{
+	width: 15%;
+	height:15%;
+	background: linear-gradient(#d9d9d9 0%, #cccccc 100%);
+	border: solid white 1px;
+	float: left;
+	margin-left: 5px;
+	cursor: default;
+}
+#men{
+	margin-left:15px;
+}
+span{
+	color: black;
+	text-align: center;
+	margin-left: 10px;
+}
+#menu{
+	margin-top: 10px;
+}
+#menus{
+	margin-top: 10px;
+	margin-left:15px;
+}
+#meki{
+	width: 100%;
+	height: 15%;
+	border: none;
+	margin-top: 170px;
+}
+h2{
+	font-size: 12px;
+	color: white;
+	text-align: center;
+}
+#boutton{
+	width: 100%;
+	height: 35%;
+	border: solid  #e6005c 1px;
+	cursor: default;
+}
+.bloc{
+	width: 30px;
+	height: 18px;
+	background: linear-gradient(#d9d9d9 0%, #cccccc 100%);
+	border: solid white 1px;
+	float: left;
+	margin-left:20px;
+	cursor: default;
+}
+#pbloc{
+	margin-left: 15px;
+	margin-top: 10px;
+	text-align: center;
+	color: red;
+	font-size: 8px;
+	cursor: default;
+}
+h3{
+	font-size: 10px;
+	color: red;
+	margin-bottom: 10px;
+	text-align: center;
+}
+#gbloc{
+	width: 80px;
+	height: 50px;
+	margin-left:20px;
+	margin-top: 10px;
+
+}.blocs{
+	width: 30px;
+	height: 18px;
+	border: solid white 1px;
+	margin-top: 40px;
+	margin-left: 20px;
+	text-align: center;
+	color: black;
+	font-size: 10px;
+	cursor:  default;
+	background: linear-gradient(#d9d9d9 0%, #cccccc 100%);
+}
+h5{
+	color: black;
+	text-align: center;
+	font-size: 10px;
+	margin-top:5px;
+}
+h4{
+	margin-top:-40px;
+	color: black;
+	font-size:10px;
+	text-align: center;
+}
+#bloc1{
+	margin-left: 70px;
+	margin-top: -15px;
+	color: black;
+	text-align: center;
+
+}
+#bloc2{
+	margin-top: -20px;
+	margin-left: 215px;
+}
+#bloc3{
+	margin-top: -25px;
+	margin-left:270px;
+}
+.bloc4{
+	width: 30px;
+	height: 18px;
+	background: linear-gradient(#d9d9d9 0%, #cccccc 100%);
+	border: solid white 1px;
+	margin-top: 10px;
+	margin-left: 18px;
+	float: left;
+}
+.mal{
+    width: 32px;
+	height: 16px;
+	background: linear-gradient(#d9d9d9 0%, #cccccc 100%);
+	border-radius: 2px;
+	float: left;
+	margin-left:18px;	
+	margin-top: 10px;
+	box-shadow: 0 2px 6px rgba(0,0,0, 0.8);
+}
